@@ -15,6 +15,11 @@
 - Delete Task
 - Update Status (Pending / Completed)
 
+![image alt](https://github.com/jasmineangelyncanedo-cell/Project/blob/09ddeded14b16b1dcc39ec3cdcaf040050fa3fea/Screenshot_11.png)
+![image alt](https://github.com/jasmineangelyncanedo-cell/Project/blob/09ddeded14b16b1dcc39ec3cdcaf040050fa3fea/Screenshot_12.png)
+![image alt](https://github.com/jasmineangelyncanedo-cell/Project/blob/09ddeded14b16b1dcc39ec3cdcaf040050fa3fea/Screenshot_13.png)
+![image alt](https://github.com/jasmineangelyncanedo-cell/Project/blob/09ddeded14b16b1dcc39ec3cdcaf040050fa3fea/Screenshot_14.png)
+
 ## Technologies Used
 
 - Laravel
